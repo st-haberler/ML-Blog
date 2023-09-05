@@ -1,4 +1,4 @@
-## Stefan's AI 
+### Introduction
 
 Hello and welcome to my blog! My name is Stefan Haberler. I am a legal professional with a strong interest in everything IT, especially legal tech and AI. 
 
